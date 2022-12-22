@@ -1,0 +1,26 @@
+body{
+			background-color: black;
+			color: white;
+			font-family: sans-serif;
+			text-align: center;
+			padding: 1%;
+		}
+		#marcacao{
+			background-color: yellow;
+			color: black;
+			box-shadow: 2px 2px 0px #666;
+		}
+		.img{
+			width: 80%;
+		}
+		button{
+			width: 20%;
+			height: 40px;
+			background-color: yellow;
+			border: 2px solid #2b2b00;
+			border-radius: 8px;
+			/*comentários no sublime:  ctrl + ;*/
+			font-weight: bold;
+			font-size: 1.0em;
+			cursor: pointer;
+		}
